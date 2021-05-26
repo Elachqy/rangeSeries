@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\admin\\Downloads\\json-simple-1.1.1.jar",
+        "c:\\Users\\admin\\Downloads\\jar_files (2)\\jackson-core-2.12.3.jar",
+        "c:\\Users\\admin\\Downloads\\jar_files (2)\\jackson-databind-2.12.3.jar",
+        "c:\\Users\\admin\\Downloads\\jar_files (1)\\jackson-annotations-2.12.3.jar",
+        "c:\\Users\\admin\\Downloads\\org_junit_platform_junit-platform-console-standalone_1.6.0_junit-platform-console-standalone-1.6.0.jar"
+    ]
+}
